@@ -1,4 +1,5 @@
-# resnet_18-VS-resnet_50
+# resnet_18-VS-resnet_50 
+#  here is the data  : https://www.dropbox.com/s/42s5o7nbxfgvyhw/MRI_CT_data.zip?dl=0
 data: image of CT and MRI , deep learning project , using pythorch library 
 we will loader the data from local DB , split to three group train ,validation , test 
 learning on train group and check in validation group , in the end we will check the result on test group 
