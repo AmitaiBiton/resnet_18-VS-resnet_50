@@ -15,3 +15,17 @@ we compare the result of two network learning
 need to know is the data is acctully not big so the maximum accuracy is 90%  resnet18 
 
 you can check some Graf on wiki .
+
+
+resnet_50 result :
+
+  NLLloss function :
+
+    validation set: Average loss: 0.454317, Accuracy: 112/138 (81%)
+
+    test set: Average loss: 0.466939, Accuracy: 111/138 (80%)
+
+  crossEntropyLoss 
+    validation set: Average loss: 0.393924, Accuracy: 113/138 (82%)
+
+    test set: Average loss: 0.451591, Accuracy: 110/138 (80%)
