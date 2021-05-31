@@ -31,12 +31,18 @@ resnet_50 result :
 
     test set: Average loss: 0.451591, Accuracy: 110/138 (80%)
     
-   
-test set: Average loss: 0.451591, Accuracy: 110/138 (80%)
+ resnet_18:
 
+NLLloss function :
 
-	loss	Accuracy 
-NLLloss function 	 	 
-CrossEntropyLoss	 	 
+	validation set: Average loss: -17.008425, Accuracy: 122/138 (88%)
+
+	test set: Average loss: -17.043915, Accuracy: 124/138 (90%)
+crossEntropyLoss:
+
+	validation set: Average loss: 0.362180, Accuracy: 122/138 (88%)
+
+	test set: Average loss: 0.379125, Accuracy: 118/138 (86%)
+
 
 
