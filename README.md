@@ -1,2 +1,17 @@
 # resnet_18-VS-resnet_50
 data: image of CT and MRI , deep learning project , using pythorch library 
+we will loader the data from local DB , split to three group train ,validation , test 
+learning on train group and check in validation group , in the end we will check the result on test group 
+part 1 comparing :
+during the project i compare between to function 
+1. CrossEntropyLoss ( number cant become negtive , when we fix the gradiant ) 
+2. NLLLoss ( can be negtive is OK )
+
+part 2 comparing :
+we compare the result of two network learning 
+1. resnet18 
+2. resnet50 
+
+need to know is the data is acctully not big so the maximum accuracy is 90%  resnet18 
+
+you can check some Graf on wiki .
