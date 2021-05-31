@@ -17,6 +17,11 @@ need to know is the data is acctully not big so the maximum accuracy is 90%  res
 you can check some Graf on wiki .
 
 
+in the two networks we using transfer learning method :
+pretraining=True 
+
+
+
 resnet_50 result :
 
   NLLloss function :
