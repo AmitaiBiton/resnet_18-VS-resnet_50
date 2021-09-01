@@ -37,7 +37,7 @@ pretraining=True
 
     test set: Average loss: 0.451591, Accuracy: 110/138 (80%)
     
- #### resnet_18:
+ #### resnet_18 result:
 
 NLLloss function :
 
